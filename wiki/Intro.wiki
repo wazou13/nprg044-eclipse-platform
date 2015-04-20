@@ -2,6 +2,9 @@
 
 = Eclipse Platform Classes 2014-15 =
 
+|| *Note: This project has been moved to the [https://github.com/d3slect/nprg044-eclipse-platform/wiki].* ||
+
+
 This is a tutorial for the Eclipse-related part of the course [http://is.cuni.cz/studium/eng/predmety/index.php?do=predmet&kod=NPRG044 Netbeans and Eclipse platforms - NPRG044].
 
 ==Outline==
@@ -15,4 +18,3 @@ This is a tutorial for the Eclipse-related part of the course [http://is.cuni.cz
 
 ==Source code==
 Source code for each lecture can be found in [http://code.google.com/a/eclipselabs.org/p/nprg044-eclipse-platform/source/browse/trunk/2014-15 SVN repository].
-
